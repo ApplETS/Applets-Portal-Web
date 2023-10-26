@@ -1,4 +1,4 @@
-# Ignore artifacts:
+# .estlintignore file
 dist
 .next
 build
